@@ -189,7 +189,7 @@ function App() {
         <div className="container">
           <div className="row g-4">
             <div className="col-lg-5">
-              <span className="section-label">Contact </span>
+              <span className="section-label">Contact Us</span>
               <h2 className="section-title">Let's create lasting change together.</h2>
             </div>
             <div className="col-lg-7">
